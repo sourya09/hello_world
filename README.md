@@ -1,2 +1,7 @@
 # hello_world
-trying for the first time
+
+Renewing the repositiory.
+Hey there, Everyone i have just started working on github.
+Support me!
+Thanks in advance.
+
